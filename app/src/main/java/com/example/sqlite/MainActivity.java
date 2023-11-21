@@ -19,7 +19,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Cantidad, Precio;
     Spinner Categoria, Ubicacion;
-
+// Link gitHub: https://github.com/DiegoFP96/Certamen4
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
